@@ -1,5 +1,8 @@
 # GANCapstone2020
 
+### Presentation
+https://www.youtube.com/watch?v=wmk6KiJgaJg
+
 ### Diffusion MRI GAN Demo
 https://www.youtube.com/watch?v=zUkwmdpF5kM&feature=youtu.be
 
