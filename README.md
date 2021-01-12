@@ -1,5 +1,8 @@
 # GANCapstone2020
 
+### Final Report
+https://drive.google.com/file/d/19JCbDZMamLM7PSZzlDQSw0WwxVKyLC2J/view?usp=sharing
+
 ### Presentation
 https://www.youtube.com/watch?v=wmk6KiJgaJg
 
