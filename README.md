@@ -1,6 +1,6 @@
 # GANCapstone2020
 
-### Final Report
+### Final Report (Literature review of GANs and results)
 https://drive.google.com/file/d/19JCbDZMamLM7PSZzlDQSw0WwxVKyLC2J/view?usp=sharing
 
 ### Presentation
